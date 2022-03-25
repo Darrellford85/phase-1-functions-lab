@@ -1,0 +1,11 @@
+"use strict";
+
+// Code your solution in this file!
+/* Remember to check ReadME.md and test notes, also to use debugger */
+
+var distance = 4;
+function distanceFromHqInBlocks() {
+  debugger;
+  var block = 43;
+  return blocks = [];
+}
